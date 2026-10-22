@@ -6,7 +6,7 @@
   </picture>
 </p>
 
-[OpenFront.io](https://openfront.io/) is an online real-time strategy game focused on territorial control and alliance building. Players compete to expand their territory, build structures, and form strategic alliances in various maps based on real-world geography.
+**OVERLORD** is a customized, community-built presentation of the OpenFront real-time strategy game. Rule the world, expand your territory, and build strategic alliances.
 
 This is a fork/rewrite of WarFront.io. Credit to https://github.com/WarFrontIO.
 
@@ -18,7 +18,7 @@ This is a fork/rewrite of WarFront.io. Credit to https://github.com/WarFrontIO.
 
 ## License
 
-OpenFront source code is licensed under the **GNU Affero General Public License v3.0**
+This project is based on OpenFrontIO. OpenFront source code is licensed under the **GNU Affero General Public License v3.0**
 
 Current copyright notices appear in:
 
